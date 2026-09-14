@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://appliquevivid.com/sitemap.xml
